@@ -2,3 +2,4 @@ ghcr.io/enricoros/big-agi:latest
 redis
 browserless/chrome:latest
 diygod/rsshub:latest
+ghcr.io/open-webui/open-webui:main
